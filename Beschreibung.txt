@@ -1,0 +1,3 @@
+Dieser Ordner dient dem Test von Git und GitHub
+
+
